@@ -1,4 +1,4 @@
-FROM node:14
+FROM node:16
 
 LABEL author="Victor Marcolino<marcolino.victor@gmail.com>"
 WORKDIR /usr/src
